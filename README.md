@@ -1,4 +1,4 @@
-# SimpleCSSPostIt
+# Simple CSS Post-It Note
 A simple post-it note in CSS
 
 ![post-it](https://user-images.githubusercontent.com/21087449/200914625-44dbdfa9-23dd-4735-ae29-667f3967d555.jpg)
