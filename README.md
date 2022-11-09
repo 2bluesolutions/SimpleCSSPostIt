@@ -16,7 +16,7 @@ Create a simple block of text for what you want to appear:
 </div>
 ```
 
-Relatively simple style for the post-it.  You can change the colours as you see fit as well as the widths and heights.  Use absolute positioning to place the post-it on top of other HTML elements
+Relatively simple style for the post-it.  You can change the colours as you see fit as well as the widths and heights.  Use absolute positioning to place the post-it on top of other HTML elements.   Add a bit of rotation with transform:rotate to adjust the look and feel.
 ```
 
 	<style>
